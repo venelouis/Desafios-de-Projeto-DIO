@@ -1,2 +1,2 @@
-# Desafios-de-Projeto-DIO
-Repo desafio de projetos Dio.me
+# Desafios de Projeto DIO
+Repo desafio de projetos DIO.me
