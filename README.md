@@ -3,3 +3,5 @@ Repositório com os desafios de Projetos da <a href="https://web.dio.me">DIO.me<
 
 - <a href="./tudo/forGO">Formação Go Developer</a>
 - <a href="./tudo/recus">Redução dos Custos em Farmácias com AWS (arquivo md)</a>
+- <a href="./tudo/labs-az900">Laboratórios Azure AZ-900</a>
+
