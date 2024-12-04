@@ -1,0 +1,35 @@
+.idea
+app/node_modules
+*.DS_Store
+*tgz
+junit.xml
+
+# Arquivo .gitignore para repositórios Terraform com Azure
+
+# Terraform
+*.tfstate
+*.tfplan
+*.tfstate.*backup
+*.tfstate.lock.info
+.terraform/
+*.hcl
+plan
+plano
+azurek8s
+
+# Chaves e arquivos de configuração
+*.pem
+*.pub
+credentials
+config
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema
+*.DS_Store
+Thumbs.db
+
+# Pastas e arquivos específicos da IDE (e.g., VS Code)
+.vscode/
+*.code-workspace

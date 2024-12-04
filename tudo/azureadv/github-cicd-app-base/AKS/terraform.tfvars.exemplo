@@ -1,0 +1,5 @@
+resource_group_location = "eastus"
+resource_group_name     = "rg-aks-dio"
+cluster_name            = "cluster-aks-dio"
+node_count              = 1
+username                = "azureadmin"
